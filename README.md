@@ -1,5 +1,5 @@
-# My AIs for the first Pacman Project in Berkelys CS188 Artificial Intelegence Course
+The files above are from a berkely course:
 
 Search.py holds my implimentation of Node, BFS, DFS, UCS, and AStar
 
-searchAgents.py holds the agents and heuristics used by the searches, and my implimentation of foodHeuristic, cornersHeuristic, CornersProblem
+searchAgents.py holds the agents and heuristics used by the searches, and the parts I implemented are foodHeuristic, cornersHeuristic, CornersProblem
