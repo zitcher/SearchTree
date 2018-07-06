@@ -1,4 +1,4 @@
-The files above are from a berkely course:
+Decision tree holds a ML decision tree AI.
 
 Search.py holds my implimentation of Node, BFS, DFS, UCS, and AStar
 
